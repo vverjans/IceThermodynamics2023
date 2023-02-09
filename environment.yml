@@ -1,0 +1,9 @@
+name: icethermo
+channels:
+  - defaults
+dependencies:
+  - numpy
+  - matplotlib
+  - scipy
+  - netcdf4
+prefix: /opt/anaconda3/envs/icethermo
